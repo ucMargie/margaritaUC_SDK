@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ucMargie/margaritaUC_SDK/issues"
   },
-  "homepage": "https://github.com/ucMargie/margaritaUC_SDK#readme"
+  "homepage": "https://github.com/ucMargie/margaritaUC_SDK#readme",
+  "dependencies": {
+    "@usercentrics/cmp-browser-sdk": "^3.7.0"
+  }
 }
