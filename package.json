@@ -1,0 +1,22 @@
+{
+  "name": "margaritauc_sdk",
+  "version": "1.0.0",
+  "description": "Usercentrics Browser SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ucMargie/margaritaUC_SDK.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "\"\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ucMargie/margaritaUC_SDK/issues"
+  },
+  "homepage": "https://github.com/ucMargie/margaritaUC_SDK#readme"
+}
